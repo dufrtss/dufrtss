@@ -21,17 +21,14 @@
 </br>
 
 <p align="center">
-   <a href="https://github.com/eduardofreitas2?tab=followers">
-    <img src="https://img.shields.io/github/followers/eduardofreitas2?label=Followers&logo=GitHub&style=for-the-badge" alt="Eduardo Freitas' followers" />
-   </a>
-   <a href="https://www.linkedin.com/in/eduardofreitas2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eduardo Freitas' linkedin" />
-  </a>
-   <a href="https://www.instagram.com/eff.expo/">
+  <a href="https://www.instagram.com/eff.expo/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="eff.expo instagram" />
   </a>
   <a href="https://www.twitter.com/eff_expo/">
     <img src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="eff.expo twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/eduardofreitas2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eduardo Freitas' linkedin" />
   </a>
   <a  href="https://api.whatsapp.com/send?phone=48991371929">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Eduardo Freitas' phone number" />

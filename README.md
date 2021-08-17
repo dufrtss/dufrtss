@@ -11,7 +11,7 @@
 - 📫 How to reach me **eduardofragadefreitas@gmail.com**
 
 - ⚡ Fun fact **synthesizers are the sound of the future.**
-- 
+
 </br>
 
 <p align="center">

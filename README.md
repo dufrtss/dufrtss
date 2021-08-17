@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **eduardofragadefreitas@gmail.com**
 
-- ⚡ **synthesizers are the sound of the future**
+- ⚡ **Synthesizers are the sound of the future**
 
 </br>
 

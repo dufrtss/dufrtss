@@ -12,11 +12,12 @@
 - ⚡ Fun fact **synthesizers are the sound of the future.**
 
 <p align="left">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ?theme=THEME_NAME
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </p>
 
 <p align="center">
-<a href="https://twitter.com/eff_expo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eff_expo" height="20" width="20" /></a>
-<a href="https://instagram.com/eff.expo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="eff.expo" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/eduardofreitas2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
+  <a href="https://twitter.com/eff_expo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eff_expo" height="20"       width="20" /></a>
+  <a href="https://instagram.com/eff.expo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="eff.expo" height="20"   width="20" /></a>
+  <a href="https://linkedin.com/in/eduardofreitas2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito"       height="20" width="20" /></a>
 </p>

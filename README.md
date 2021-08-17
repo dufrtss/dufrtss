@@ -12,8 +12,9 @@
 
 - ⚡ Fun fact **synthesizers are the sound of the future.**
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=eduardofreitas2&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </p>
 
 <p align="center">

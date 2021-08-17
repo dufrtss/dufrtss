@@ -17,5 +17,5 @@
 <p align="center">
 <a href="https://twitter.com/eff_expo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eff_expo" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/eduardofreitas2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://instagram.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="eff.expo" height="20" width="20" /></a>
+<a href="https://instagram.com/eff.expo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="eff.expo" height="20" width="20" /></a>
 </p>

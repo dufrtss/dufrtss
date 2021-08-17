@@ -12,8 +12,7 @@
 - ⚡ Fun fact **synthesizers are the sound of the future.**
 
 <p align="left">
-  ?theme=THEME_NAME
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
 </p>
 
 <p align="center">

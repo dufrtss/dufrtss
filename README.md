@@ -21,7 +21,16 @@
 </br>
 
 <p align="center">
-  <a href="https://twitter.com/eff_expo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eff_expo" height="20"       width="20" /></a>
-  <a href="https://instagram.com/eff.expo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="eff.expo" height="20"   width="20" /></a>
-  <a href="https://linkedin.com/in/eduardofreitas2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito"       height="20" width="20" /></a>
+  <a href="https://github.com/viniciusmargotti?tab=followers">
+    <img src="https://img.shields.io/github/followers/viniciusmargotti?label=Followers&logo=GitHub&style=for-the-badge" alt="Eduardo Freitas' followers" />
+  </a>
+   <a href="https://www.linkedin.com/in/vin%C3%ADcius-de-souza-margotti-47b306167/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eduardo Freitas' linkedin" />
+  </a>
+   <a href="https://www.instagram.com/eff.expo/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="eff.expo instagram" />
+  </a>
+  <a  href="https://api.whatsapp.com/send?phone=48991371929">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Eduardo Freitas' phone number" />
+  </a>
 </p>

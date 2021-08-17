@@ -13,7 +13,7 @@
 - ⚡ Fun fact **synthesizers are the sound of the future.**
 
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardofreitas2&show_icons=true&bg_color=DEG,#000000,#7b0000,#ff0000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardofreitas2&show_icons=true&bg_color=DEG,000000,7b0000,ff0000" />
 </a>
 
 <p align="center">

@@ -12,12 +12,11 @@
 
 - ⚡ Fun fact **synthesizers are the sound of the future.**
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardofreitas2&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="github-readme-stats.vercel.app/api/top-langs/?username=eduardofreitas2&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofreitas2&layout=compact" />
 </a>
 
 <p align="center">

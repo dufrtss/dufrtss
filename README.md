@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Eduardo Freitas</h1>
 <h3 align="center">A Computer Engineering undergraduate aspiring to be a Software Engineer.</h3>
-</br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eduardofreitas2" alt="eduardofreitas2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardofreitas2" alt="eduardofreitas2" /> </p>
 
 - 🔭 I’m currently working on [Useall Software](https://www.useall.com.br/)
 

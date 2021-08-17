@@ -1,5 +1,6 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Eduardo Freitas</h1>
 <h3 align="center">A Computer Engineering undergraduate aspiring to be a Software Engineer.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardofreitas2" alt="eduardofreitas2" /> </p>
 
 - 🔭 I’m currently working on [Useall Software](https://www.useall.com.br/)
 
@@ -12,7 +13,7 @@
 - ⚡ Fun fact **synthesizers are the sound of the future.**
 
 <p align="left">
-  <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
 </p>
 
 <p align="center">

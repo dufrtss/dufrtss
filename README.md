@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Engineering undergraduate aspiring to be a Software Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardofreitas2" alt="eduardofreitas2" /> </p>
 
-<p align="center"> <iframe src="https://giphy.com/embed/JVglf7QjxaZZM2tjfB" width="480" height="326" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hustleinspireshustle-cat-jam-catjam-JVglf7QjxaZZM2tjfB">via GIPHY</a> </p> </p>
+<p align="center"> <img src="https://giphy.com/embed/JVglf7QjxaZZM2tjfB" width="480" height="326" frameBorder="0" class="giphy-embed"></iframe> </p>
 
 - 🔭 I’m currently working on [Useall Software](https://www.useall.com.br/)
 

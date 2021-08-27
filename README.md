@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Engineering undergraduate aspiring to be a Software Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardofreitas2" alt="eduardofreitas2" /> </p>
 
-<p align="center"> <img src="https://media4.giphy.com/media/JVglf7QjxaZZM2tjfB/giphy.gif" width="192" height="130.4"></img> </p>
+<p align="center"> <img src="https://media4.giphy.com/media/JVglf7QjxaZZM2tjfB/giphy.gif" width="144" height="97.8"></img> </p>
 
 - 🔭 I’m currently working on [Useall Software](https://www.useall.com.br/)
 

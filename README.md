@@ -2,6 +2,8 @@
 <h3 align="center">A Computer Engineering undergraduate aspiring to be a Software Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardofreitas2" alt="eduardofreitas2" /> </p>
 
+<p align="center"> <img src="https://media4.giphy.com/media/JVglf7QjxaZZM2tjfB/giphy.gif" width="192" height="130.4"></img> </p>
+
 - 🔭 I’m currently working on [Useall Software](https://www.useall.com.br/)
 
 - 👨‍💻 You can check me out at [LinkedIn](https://www.linkedin.com/in/eduardofreitas2/)
@@ -34,7 +36,3 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Eduardo Freitas' phone number" />
   </a>
 </p>
-
-</br>
-
-<p align="center"> <img src="https://media4.giphy.com/media/JVglf7QjxaZZM2tjfB/giphy.gif" width="192" height="130.4"></img> </p>

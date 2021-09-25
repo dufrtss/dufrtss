@@ -6,7 +6,7 @@
 
 - 👨‍💻 You can check me out at [LinkedIn](https://www.linkedin.com/in/eduardofreitas2/)
 
-- 💬 Ask me about **UX, UI, javaScript, HTML and CSS**
+- 💬 Studying **C# .NET, Python and NodeJS.**
 
 - 📫 How to reach me **eduardofragadefreitas@gmail.com**
 

@@ -6,7 +6,7 @@
 
 - 👨‍💻 You can check me out at [LinkedIn](https://www.linkedin.com/in/eduardofreitas2/)
 
-- 💬 Studying **C# .NET for Large Scale and Python for Data Science and engineering.**
+- 💬 Studying **C# .NET for Large Scale and Python for Data Science and Engineering.**
 
 - 📫 How to reach me **eduardofragadefreitas@gmail.com**
 

@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Eduardo Freitas</h1>
-<h3 align="center">Aspiring Software Engineer.</h3>
+<h3 align="center">A aspiring Software Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardofreitas2" alt="eduardofreitas2" /> </p>
 
 - 🔭 I’m currently working on [Useall Software](https://www.useall.com.br/)
 
 - 👨‍💻 You can check me out at [LinkedIn](https://www.linkedin.com/in/eduardofreitas2/)
 
-- 💬 Studying **C# .NET and React for large scale applications.**
+- 💬 Studying **C# .NET and ReactJs for large scale**
 
 - 📫 How to reach me **eduardofragadefreitas@gmail.com**
 

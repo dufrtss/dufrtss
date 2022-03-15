@@ -1,14 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Eduardo Freitas</h1>
-<h3 align="center">A aspiring Software Engineer.</h3>
+<h3 align="center">Aspiring Software Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardofreitas2" alt="eduardofreitas2" /> </p>
 
-- 👨‍💻 You can check me out at [LinkedIn](https://www.linkedin.com/in/eduardofreitas2/)
+- 👨‍💻 you can check me out at [LinkedIn](https://www.linkedin.com/in/eduardofreitas2/)
 
-- 💬 Studying **C# .NET and ReactJs for large scale**
+- 💬 studying **C# .NET and ReactJs**
 
-- 📫 How to reach me **eduardofragadefreitas@gmail.com**
+- 📫 how to reach me **eduardofragadefreitas@gmail.com**
 
-- ⚡ **Synthesizers are the sound of the future**
+- ⚡ **synthesizers are the sound of the future**
 
 </br>
 

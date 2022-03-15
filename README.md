@@ -2,8 +2,6 @@
 <h3 align="center">A aspiring Software Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardofreitas2" alt="eduardofreitas2" /> </p>
 
-- 🔭 I’m currently working on [Useall Software](https://www.useall.com.br/)
-
 - 👨‍💻 You can check me out at [LinkedIn](https://www.linkedin.com/in/eduardofreitas2/)
 
 - 💬 Studying **C# .NET and ReactJs for large scale**

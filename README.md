@@ -8,7 +8,7 @@
 
 - 📫 how to reach me **eduardofragadefreitas@gmail.com**
 
-- ⚡ **synthesizers are the sound of the future**
+- ⚡ **I love the synthesizer**
 
 </br>
 

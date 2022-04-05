@@ -13,7 +13,9 @@
 </br>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardofreitas2&show_icons=true&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardofreitas2&show_icons=true&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellervmarcelo&layout=compact&langs_count=7&theme=tokyonight" />
+
 </p>
 
 </br>

@@ -4,7 +4,7 @@
 
 - 👨‍💻 you can check me out at [LinkedIn](https://www.linkedin.com/in/eduardofreitas2/)
 
-- 💬 studying **C# .NET and ReactJs**
+- 💬 studying **ReactJs and NodeJs**
 
 - 📫 how to reach me **eduardofragadefreitas@gmail.com**
 

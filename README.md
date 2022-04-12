@@ -4,7 +4,7 @@
 
 - 👨‍💻 you can check me out at [LinkedIn](https://www.linkedin.com/in/eduardofreitas2/)
 
-- 💬 studying **ReactJS and Node.js**
+- 💬 ask me about **ReactJS and Node.js**
 
 - 📫 how to reach me **eduardofragadefreitas@gmail.com**
 

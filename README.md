@@ -1,4 +1,5 @@
-<h1 align="center">Hi, welcome to my profile! :)</h1>
+<h1 align="center">Hi, I'm Eduardo!</h1>
+<h3 align="center">welcome to my profile.<h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardofreitas2" alt="eduardofreitas2" /> </p>
 
 - 👨‍💻 you can check me out at [LinkedIn](https://www.linkedin.com/in/eduardofreitas2/)

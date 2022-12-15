@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Eduardo!</h1>
+<h1 align="center">Hi, I'm Eduardo! Welcome to my profile.</h1>
 
 - 👨‍💻 you can check me out at [LinkedIn](https://www.linkedin.com/in/eduardofreitas2/)
 

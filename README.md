@@ -9,14 +9,6 @@
 </br>
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardofreitas2&show_icons=true&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofreitas2&layout=compact&langs_count=7&theme=tokyonight" />
-
-</p>
-
-</br>
-
-<p align="center">
   <a href="https://www.instagram.com/eff.expo/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="eff.expo instagram" />
   </a>

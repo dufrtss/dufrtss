@@ -2,7 +2,7 @@
   <h2>Hi, I'm Eduardo! Welcome to my profile.</h2>
 </div>
 
-![serial experiments lain disappear](https://media.tenor.com/oACF5Of6auIAAAAd/serial-experiments-lain-disappear.gif)
+![serial experiments lain](https://media.tenor.com/ynYPim7RM8wAAAAi/lain-serial-experiments-lain.gif)
 
 <div align="center">  
   <a href="https://github.com/eduardofreitas2">

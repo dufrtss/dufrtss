@@ -1,10 +1,9 @@
 <div align="center">
-  <h2>Hi, there! I'm Eduardo, welcome to my profile.</h2>
+  <h2>Hello, there! I'm Eduardo, welcome to my profile. <img src="https://media.tenor.com/4Agzw-UHFd0AAAAj/pusheen.gif" width="50px" height="50px" /></h2>
 </div>
 
 <div align="center">
   <img src="https://media.tenor.com/ynYPim7RM8wAAAAi/lain-serial-experiments-lain.gif" width="180px" height="180px" />
-<!-- ![serial experiments lain](https://media.tenor.com/ynYPim7RM8wAAAAi/lain-serial-experiments-lain.gif) -->
 </div>
   
 <div align="center">  

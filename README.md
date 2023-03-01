@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" align-items="center">
   <h2>Hello, there! I'm Eduardo, welcome to my profile. <img src="https://media.tenor.com/4Agzw-UHFd0AAAAj/pusheen.gif" width="50px" height="50px" /></h2>
 </div>
 

@@ -2,6 +2,10 @@
   <h2>Hi, I'm Eduardo! Welcome to my profile.</h2>
 </div>
 
+<div align="center">
+  <img src="https://media.tenor.com/oACF5Of6auIAAAAd/serial-experiments-lain-disappear.gif" />
+</div>
+
 ![serial experiments lain disappear](https://media.tenor.com/oACF5Of6auIAAAAd/serial-experiments-lain-disappear.gif)
 
 <div align="center">  

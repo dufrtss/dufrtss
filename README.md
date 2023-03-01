@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/oACF5Of6auIAAAAd/serial-experiments-lain-disappear.gif" />
+  <img src="https://media.tenor.com/oACF5Of6auIAAAAd/serial-experiments-lain-disappear.gif" width="100px" height="100px" />
 </div>
 
 ![serial experiments lain disappear](https://media.tenor.com/oACF5Of6auIAAAAd/serial-experiments-lain-disappear.gif)

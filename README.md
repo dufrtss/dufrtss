@@ -2,7 +2,8 @@
   <h2>Hi, I'm Eduardo! Welcome to my profile.</h2>
 </div>
 
-![serial experiments lain](https://media.tenor.com/ynYPim7RM8wAAAAi/lain-serial-experiments-lain.gif)
+<img src="https://media.tenor.com/ynYPim7RM8wAAAAi/lain-serial-experiments-lain.gif" width="100px" height="100px" />
+<!-- ![serial experiments lain](https://media.tenor.com/ynYPim7RM8wAAAAi/lain-serial-experiments-lain.gif) -->
 
 <div align="center">  
   <a href="https://github.com/eduardofreitas2">
